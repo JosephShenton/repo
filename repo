@@ -1,0 +1,124 @@
+{
+    "repository": {
+        "name": "<span style='color: #00c6ff; color: -webkit-linear-gradient(to left, #00c6ff , #0072ff); color: linear-gradient(to left, #00c6ff , #0072ff); font-size: 20px;'><strong>Official Lotus Installer Repo</strong></span>",
+        "vericon": "https://support.wattpad.com/hc/en-us/article_attachments/202911914/Verified_user_icon_1_.png",
+        "maintainer": "Lotus Installer",
+        "website": "http://timedevs.net/lotusrepo",
+        "description": "<span style='color: #00c6ff; color: -webkit-linear-gradient(to left, #00c6ff , #0072ff); color: linear-gradient(to left, #00c6ff , #0072ff); font-size: 15px;'>Featured: Barrel++</span>",
+        "icon": "http://timedevs.net/Lotus/mobile/LotusIcon.png",
+        "featuredpackage": "<span style='color: #00c6ff; color: -webkit-linear-gradient(to left, #00c6ff , #0072ff); color: linear-gradient(to left, #00c6ff , #0072ff); font-size: 15px;'>Featured: Barrel++</span>",
+        "packages": [
+            {
+                "id": "net.timedevs.lotusinstaller.com.aaronash.barrel",
+                "name": "Barrel",
+                "version": "1.8.1.0-1",
+                "author": "Aaron Ash",
+                "description": "A cool and freeway to customize your device like curl and roll away",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://dinfo.wanmeiyueyu.com/Data/APPINFOR/36/28/com.apps.EndlessAlphabook/dizigui_zhouyi_com.apps.EndlessAlphabook_0_e8dfbd3f948eda9d9f398f3d47e867da_1.1.plist",
+                "icon": "http://cydia.saurik.com/icon@2x/com.aaronash.barrel.png"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.minecraft.plug",
+                "name": "Plug For PE",
+                "version": "1.0",
+                "author": "InDevelopers",
+                "description": "A free and easy way to add bucket styled commands to your Minecraft pocket edition world",
+                "info": "http://timedevs.net",
+                "link": "http://timedevs.net/Lotus/mobile/index1812.html",
+                "icon": "https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/s218382b82b519aa7/image/i2e88298d481854fd/version/1452366299/image.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.gba.4ios",
+                "name": "GBA4iOS",
+                "version": "2.1",
+                "author": "GBA4iOS",
+                "description": "A GameBoy advanced emulator",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://start3rs.box.com/shared/static/zv8jxp6satkxtm4ettkv0c3rdnp7nvdt.plist",
+                "icon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s218382b82b519aa7/image/i6c12a961d5cf86e8/version/1452733151/image.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.tv.shou.airshou",
+                "name": "AirShou",
+                "version": "1.0",
+                "author": "Shou.tv",
+                "description": "A way of recording any iOS 9 device or above.",
+                "info": "https://shou.tv",
+                "link": "https://shou.tv/a",
+                "icon": "https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/s218382b82b519aa7/image/i77299466cf830bdc/version/1451515455/image.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.barrel.barrel++",
+                "name": "Barrel++",
+                "version": "1.0",
+                "author": "Barrel++",
+                "description": "A great way to customize your device, at some customization, like curl and rollaway, stairs, and much more. This will help your device and make it look so much cooler than it is now.",
+                "info": "http://timedevs.net/",
+                "link": "itms-services://?action=download-manifest&url=https://dinfo.wanmeiyueyu.com/Data/APPINFOR/36/28/com.apps.EndlessAlphabook/dizigui_zhouyi_com.apps.EndlessAlphabook_0_c6d830b816c3c6fd10ad7204e9af920b_1.1.plist",
+                "icon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s218382b82b519aa7/image/ie0b8fba132406044/version/1452197362/image.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.moviebox.com",
+                "name": "Movie Box",
+                "version": "1.0",
+                "author": "Othman_tech",
+                "description": "A cool and freeway to watch, stream any movie, and watch their trailers if you need to.",
+                "info": "http://timedevs.net",
+                "link": "https://ipa.othman.cc/ipa/mbox.php",
+                "icon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s218382b82b519aa7/image/i794bb7f55e6060cd/version/1451439919/image.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.playbox.hd",
+                "name": "PlayBox HD",
+                "version": "1.0",
+                "author": "PlayBox Devs",
+                "description": "An amazing alternative to MovieBox",
+                "info": "http://timedevs.net/",
+                "link": "http://hrefhefkf.com",
+                "icon": "http://www.iosem.us/app/PBHD.png"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.infiniedevs.nds4ios",
+                "name": "NDS4iOS",
+                "version": "1.0",
+                "author": "InfinieDevs",
+                "description": "nds4ios, a Nintendo DS emulator, is a port of the multi-platform DeSmuME 0.9.10 for iOS.",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://emus4u.zohosites.com/files/nds4ios-march-10.plist",
+                "icon": "http://www.iosem.us/app/NDS.png"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.appcola.app",
+                "name": "AppCola",
+                "version": "2.1",
+                "author": "AppCola",
+                "description": "Free apps",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://emus4u.zohosites.com/files/AppCola.plist",
+                "icon": "http://emus4u.zohosites.com/files/index99.jpg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.demo.downcloud",
+                "name": "DownCloud",
+                "version": "1.0",
+                "author": "DownCloud",
+                "description": "DownCloud",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://emus4u.zohosites.com/files/dc.plist",
+                "icon": "http://emus4u.zohosites.com/files/iE5Ab3et.jpeg"
+            },
+            {
+                "id": "net.timedevs.lotusinstaller.com.vShare.app",
+                "name": "vShare",
+                "version": "1.0",
+                "author": "vShare",
+                "description": "Free Apps",
+                "info": "http://timedevs.net",
+                "link": "itms-services://?action=download-manifest&url=https://emus4u.zohosites.com/files/VS.plist",
+                "icon": "http://emus4u.zohosites.com/files/vshare1901.png"
+            }
+        ],
+        "manager": "true"
+    }
+}		
